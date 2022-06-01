@@ -1,6 +1,6 @@
 {
-    "name": "neurony/laravel-duplicate",
-    "description": "Fork of Duplicate any Eloquent model along with its underlying relationships",
+    "name": "sergiogmr/laravel-duplicate",
+    "description": "Fork of Duplicate any Eloquent model along with its underlying relationships from neurony/laravel-duplicate",
     "license": "MIT",
     "keywords": [
         "laravel",
@@ -15,8 +15,8 @@
     "prefer-stable": true,
     "authors": [
         {
-            "name": "Andrei Badea",
-            "email": "zbiller@gmail.com",
+            "name": "SergioGMR",
+            "email": "sergiogmr.tv@gmail.com",
             "role": "Developer"
         }
     ],
